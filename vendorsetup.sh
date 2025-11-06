@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-FDEVICE="TECNO KJ6"
+FDEVICE="TECNO-KJ6"
 #set -o xtrace
 
 fox_get_target_device() {
