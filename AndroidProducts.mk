@@ -8,6 +8,8 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_TECNO-KJ6.mk
 
+PRODUCT_NAME := omni_TECNO-KJ6
+
 COMMON_LUNCH_CHOICES := \
     omni_TECNO-KJ6-user \
     omni_TECNO-KJ6-userdebug \
